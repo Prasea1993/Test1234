@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"2c5d7256-7253-40ef-87ab-23ea655f4574","feature":"User Registration","scenario":"Verify user registration with valid test data","start":1709924722674,"group":1,"content":"","tags":"","end":1709924741737,"className":"failed"},{"id":"a010a0fe-226f-44f7-a0a2-9b11059ac5af","feature":"User Registration","scenario":"Verify user registration with valid test data","start":1709924763839,"group":1,"content":"","tags":"","end":1709924782684,"className":"passed"},{"id":"609d4255-7875-4c63-9176-bca3e2298897","feature":"User Registration","scenario":"Verify user registration with valid test data","start":1709924741821,"group":1,"content":"","tags":"","end":1709924763816,"className":"failed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":1,"content":"Thread[main,5,main]"}]);
+});
